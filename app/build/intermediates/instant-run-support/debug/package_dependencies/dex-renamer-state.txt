@@ -1,0 +1,25 @@
+#Tue Dec 05 22:33:30 IST 2017
+renamed.7=classes7.dex
+renamed.6=classes2.dex
+renamed.5=classes8.dex
+renamed.4=classes3.dex
+renamed.3=classes4.dex
+renamed.2=classes6.dex
+renamed.1=classes5.dex
+renamed.0=classes.dex
+base.7=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_ecc95e433deeb3c796003cfe4ce3e7add9248a9f
+base.6=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3ece443e82179c9efc3983920fbc4e5ade1d8e46
+base.5=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_4daeb8d73ac564b3b6a394de48f4672a34751613
+base.4=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4773cf2ce917159ec402831cbdcbd4bf925444af
+base.3=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_84013ac7e110b91df7a91c3e59026522ad40133b
+base.2=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_7893f167af9fd7e10cc2e35ab2872f99390d433e
+base.1=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f2e821fd839e0daa925b565cd1b605fbb7ff76a4
+base.0=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2cb6eb1d39bb564962b9e2c1ce45f3200dd97a62
+file.7=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_ecc95e433deeb3c796003cfe4ce3e7add9248a9f\\classes.dex
+file.6=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3ece443e82179c9efc3983920fbc4e5ade1d8e46\\classes.dex
+file.5=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_4daeb8d73ac564b3b6a394de48f4672a34751613\\classes.dex
+file.4=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4773cf2ce917159ec402831cbdcbd4bf925444af\\classes.dex
+file.3=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_84013ac7e110b91df7a91c3e59026522ad40133b\\classes.dex
+file.2=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_7893f167af9fd7e10cc2e35ab2872f99390d433e\\classes.dex
+file.1=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f2e821fd839e0daa925b565cd1b605fbb7ff76a4\\classes.dex
+file.0=D\:\\amdroid\\androidworkspace\\Fragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2cb6eb1d39bb564962b9e2c1ce45f3200dd97a62\\classes.dex
